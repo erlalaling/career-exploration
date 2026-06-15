@@ -1,7 +1,7 @@
 # Career Exploration
 
 ## Why did I choose BSIT?
--I chose BSIT because I believe this would help me learn the 
+- I chose BSIT because I believe this would help me learn the 
 basics & fundamentals, having knowledge of logic, problem-solving, and, of course, a step
 to really be in a job I would want to be -- the tech field.
 
@@ -28,3 +28,13 @@ getting some work for my team and contributing something.
 ## Where do I want to be in 3 years?
 - I want to be working by then, I don't want to be a stagnant fresh grad, I dream of having a voluntary paid- intership
   even if im still studying.
+
+## Why would a company hire me?
+
+I am still learning, but I am willing to:
+- Learn continuously
+- Work well with a team
+- Adapt to new technologies
+- Build meaningful solutions
+
+My goal is to become the kind of developer who contributes value, not just writes code.
